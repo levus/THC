@@ -1,0 +1,11 @@
+[--Tiny Http serviCe (THC)--]
+
+::ABOUT
+THC is simple, fast and secure hypertext transfer protocol daemon.
+
+::PLATFORM AND CODE INFO
+This project is @ Revised BSD license.
+It's written in C language and the goal is to make it portable to Windows, *BSD and Mac OS (X and newer). Basically written to work with GNU/Linux.
+
+::COPYLEFT
+By thc_flow (2010)
